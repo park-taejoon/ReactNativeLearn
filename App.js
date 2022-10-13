@@ -1,4 +1,3 @@
-import {visitors} from '@babel/traverse';
 import React, {useState} from 'react';
 
 import {SafeAreaView, Text, Button} from 'react-native';
